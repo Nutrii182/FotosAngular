@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-3e9f4": {
+      "hosting": {
+        "fotosAngularApp": [
+          "fir-fotos-3e9f4"
+        ]
+      }
+    }
+  }
+}
